@@ -1,0 +1,666 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.5)  5 MAR 2020 23:49
+entering extended mode
+**./proyecto.tex
+(proyecto.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+("C:\Users\mac\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Users\mac\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+("C:\Users\mac\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+("C:\Users\mac\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty"
+Package: babel 2020/02/14 3.40 The Babel package
+
+("C:\Users\mac\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.def"
+File: switch.def 2020/02/14 3.40 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\mac\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\mac\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-spanish\spanis
+h.ldf"
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+("C:\Users\mac\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2020/02/14 3.40 Babel common definitions
+\babel@savecnt=\count175
+\U@D=\dimen135
+
+("C:\Users\mac\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.def
+")
+\bbl@readstream=\read2
+\bbl@dirlevel=\count176
+)
+\es@quottoks=\toks16
+\es@quotdepth=\count177
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+("C:\Users\mac\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip49
+For additional information on amsmath, use the `?' option.
+("C:\Users\mac\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+("C:\Users\mac\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen136
+)) ("C:\Users\mac\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.st
+y"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen137
+) ("C:\Users\mac\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty
+"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count178
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count179
+\leftroot@=\count180
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count181
+\DOTSCASE@=\count182
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen138
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count183
+\c@MaxMatrixCols=\count184
+\dotsspace@=\muskip16
+\c@parentequation=\count185
+\dspbrk@lvl=\count186
+\tag@help=\toks18
+\row@=\count187
+\column@=\count188
+\maxfields@=\count189
+\andhelp@=\toks19
+\eqnshift@=\dimen139
+\alignsep@=\dimen140
+\tagshift@=\dimen141
+\tagwidth@=\dimen142
+\totwidth@=\dimen143
+\lineht@=\dimen144
+\@envbody=\toks20
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+("C:\Users\mac\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.st
+y"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Users\mac\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.sty
+"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+) ("C:\Users\mac\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\makeidx.sty"
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+("C:\Users\mac\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.st
+y"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\mac\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+("C:\Users\mac\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.st
+y"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ ("C:\Users\mac\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\mac\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphic
+s.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\mac\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex.
+def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen145
+\Gin@req@width=\dimen146
+)
+("C:\Users\mac\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\multicol.sty"
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count190
+\mult@box=\box47
+\multicol@leftmargin=\dimen147
+\c@unbalance=\count191
+\c@collectmore=\count192
+\doublecol@number=\count193
+\multicoltolerance=\count194
+\multicolpretolerance=\count195
+\full@width=\dimen148
+\page@free=\dimen149
+\premulticols=\dimen150
+\postmulticols=\dimen151
+\multicolsep=\skip52
+\multicolbaselineskip=\skip53
+\partial@page=\box48
+\last@line=\box49
+\maxbalancingoverflow=\dimen152
+\mult@rightbox=\box50
+\mult@grightbox=\box51
+\mult@gfirstbox=\box52
+\mult@firstbox=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\c@minrows=\count196
+\c@columnbadness=\count197
+\c@finalcolumnbadness=\count198
+\last@try=\dimen153
+\multicolovershoot=\dimen154
+\multicolundershoot=\dimen155
+\mult@nat@firstbox=\box91
+\colbreak@box=\box92
+\mc@col@check@num=\count199
+)
+("C:\Users\mac\AppData\Local\Programs\MiKTeX 2.9\tex/latex/changepage\changepag
+e.sty"
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count266
+\cp@tempcnt=\count267
+)
+("C:\Users\mac\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count268
+\float@exts=\toks23
+\float@box=\box93
+\@float@everytoks=\toks24
+\@floatcapt=\box94
+)
+("C:\Users\mac\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cite\cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+("C:\Users\mac\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Users\mac\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.st
+y"
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ ("C:\Users\mac\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifvtex.sty"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ ("C:\Users\mac\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+))
+\Gm@cnth=\count269
+\Gm@cntv=\count270
+\c@Gm@tempcnt=\count271
+\Gm@bindingoffset=\dimen156
+\Gm@wd@mp=\dimen157
+\Gm@odd@mp=\dimen158
+\Gm@even@mp=\dimen159
+\Gm@layoutwidth=\dimen160
+\Gm@layoutheight=\dimen161
+\Gm@layouthoffset=\dimen162
+\Gm@layoutvoffset=\dimen163
+\Gm@dimlist=\toks25
+
+("C:\Users\mac\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.cf
+g"))
+("C:\Users\mac\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backend-
+pdfmode.def"
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count272
+\l__pdf_internal_box=\box95
+) (proyecto.aux
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
+)
+\openout1 = `proyecto.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
+
+("C:\Users\mac\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pdf
+.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count273
+\scratchdimen=\dimen164
+\scratchbox=\box96
+\nofMPsegments=\count274
+\nofMParguments=\count275
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count276
+\MPscratchDim=\dimen165
+\MPnumerator=\count277
+\makeMPintoPDFobject=\count278
+\everyMPtoPDFconversion=\toks27
+)
+("C:\Users\mac\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopd
+f-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 24.
+
+("C:\Users\mac\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 24.
+
+
+("C:\Users\mac\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<logoUniversidad.png, id=1, 501.7947pt x 501.7947pt>
+File: logoUniversidad.png Graphic file (type png)
+<use logoUniversidad.png>
+Package pdftex.def Info: logoUniversidad.png  used on input line 25.
+(pdftex.def)             Requested size: 150.53957pt x 150.53957pt.
+<images.jpg, id=3, 242.9075pt x 208.78pt>
+File: images.jpg Graphic file (type jpg)
+<use images.jpg>
+Package pdftex.def Info: images.jpg  used on input line 25.
+(pdftex.def)             Requested size: 121.45345pt x 104.38972pt.
+
+Overfull \hbox (26.61107pt too wide) in paragraph at lines 21--29
+ [] 
+ []
+
+[1
+
+{C:/Users/mac/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./logoUnivers
+idad.png> <./images.jpg>] (proyecto.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@toc=\write3
+\openout3 = `proyecto.toc'.
+
+ [2
+
+]
+<Peñaca.png, id=14, 223.58531pt x 82.80937pt>
+File: Peñaca.png Graphic file (type png)
+<use Peñaca.png>
+Package pdftex.def Info: Peñaca.png  used on input line 74.
+(pdftex.def)             Requested size: 435.32422pt x 161.24637pt.
+ [3 <./Peñaca.png>]
+<casodeusouno.png, id=19, 335.75438pt x 372.64218pt>
+File: casodeusouno.png Graphic file (type png)
+<use casodeusouno.png>
+Package pdftex.def Info: casodeusouno.png  used on input line 80.
+(pdftex.def)             Requested size: 435.32422pt x 483.15541pt.
+<casodeusodos.png, id=20, 435.12563pt x 444.15938pt>
+File: casodeusodos.png Graphic file (type png)
+<use casodeusodos.png>
+Package pdftex.def Info: casodeusodos.png  used on input line 83.
+(pdftex.def)             Requested size: 435.32422pt x 444.3887pt.
+ [4 <./casodeusouno.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 89--109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--109
+
+ []
+
+[5 <./casodeusodos.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 112--121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--121
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 167--170
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+
+ []
+
+<inicio.png, id=39, 441.90094pt x 368.87813pt>
+File: inicio.png Graphic file (type png)
+<use inicio.png>
+Package pdftex.def Info: inicio.png  used on input line 187.
+(pdftex.def)             Requested size: 309.32854pt x 258.21292pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--191
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--191
+
+ []
+
+<registro.png, id=40, 476.53032pt x 424.58624pt>
+File: registro.png Graphic file (type png)
+<use registro.png>
+Package pdftex.def Info: registro.png  used on input line 192.
+(pdftex.def)             Requested size: 333.56895pt x 297.20834pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--196
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--196
+
+ []
+
+[9 <./inicio.png> <./registro.png>]
+<nuevocliente.png, id=46, 431.36156pt x 238.64156pt>
+File: nuevocliente.png Graphic file (type png)
+<use nuevocliente.png>
+Package pdftex.def Info: nuevocliente.png  used on input line 197.
+(pdftex.def)             Requested size: 301.95103pt x 167.04794pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
+
+ []
+
+<inventario.png, id=47, 758.835pt x 469.755pt>
+File: inventario.png Graphic file (type png)
+<use inventario.png>
+Package pdftex.def Info: inventario.png  used on input line 202.
+(pdftex.def)             Requested size: 531.1809pt x 328.82626pt.
+
+Overfull \hbox (47.48402pt too wide) in paragraph at lines 202--203
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
+
+ []
+
+<registroprove.png, id=48, 444.91219pt x 240.9pt>
+File: registroprove.png Graphic file (type png)
+<use registroprove.png>
+Package pdftex.def Info: registroprove.png  used on input line 207.
+(pdftex.def)             Requested size: 311.4364pt x 168.62883pt.
+[10 <./nuevocliente.png> <./inventario.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+
+ []
+
+<Facturas.png, id=54, 371.13657pt x 257.46187pt>
+File: Facturas.png Graphic file (type png)
+<use Facturas.png>
+Package pdftex.def Info: Facturas.png  used on input line 212.
+(pdftex.def)             Requested size: 259.79381pt x 180.22206pt.
+[11 <./registroprove.png> <./Facturas.png>] [12] (proyecto.aux
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
+) ) 
+Here is how much of TeX's memory you used:
+ 4291 strings out of 481556
+ 59468 string characters out of 2914806
+ 315477 words of memory out of 3000000
+ 19468 multiletter control sequences out of 15000+200000
+ 540655 words of font info for 55 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 30i,13n,35p,405b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/mac/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmbx12.pfb><C:/Users/mac/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmr12.pfb>
+Output written on proyecto.pdf (12 pages, 259975 bytes).
+PDF statistics:
+ 71 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+
